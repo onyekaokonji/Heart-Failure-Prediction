@@ -11,7 +11,7 @@ Dataset was an imbalanced one such that the number of positive cases is way less
 <img width="480" alt="Screenshot 2021-11-06 at 17 08 27" src="https://user-images.githubusercontent.com/40724187/140616193-382527ef-2006-4e0d-9193-f92ed01fff9e.png">
 
 ### Web link to view performance:
-http://localhost:8501/
+http://192.168.8.100:8501
 
 ### Possible way forward
 Because it's a health-related algorithm, it's sensible to want to improve recall to somewhere around upwards of 90%. Possible methods might be to:
